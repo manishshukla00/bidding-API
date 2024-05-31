@@ -8,3 +8,5 @@ Added functionality
 4- Multer package used to upload images.
 5- CRUD operation for Items Schema.
 6- User register and login feature.
+7- MongoDB used as database for CRUD operations for data storage.
+8- Node packages used - express, mongoose, jsonwebtoken, multer, cors, bcryptjs, dotenv, socket.io.
