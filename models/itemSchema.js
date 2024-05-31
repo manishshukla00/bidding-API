@@ -11,7 +11,7 @@ const ItemSchema = new mongoose.Schema({
     },
   },
   image_url: { type: String },
-  end_time: { type: Date, required: true },
+  end_time: { type: Date },
   created_at: { type: Date, default: Date.now },
 });
 
